@@ -41,7 +41,8 @@ Ketika kita sudah mendapat nilai phi dan jari-jari selanjutnya kita bisa menghit
 Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
 Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita pakai fungsi format() seperti gambar di atas</p>
 ### Ouput
-![3 4](https://user-images.githubusercontent.com/92736847/139678848-7f7c8a33-11af-480b-97ef-0e2cbd9b6eff.png)
+ 
+ ![3 4](https://user-images.githubusercontent.com/92736847/139679264-1cc5abe4-a867-4f3f-b709-ea4ac118f248.png)
 
-Terima Kasih
+
 Terima Kasih
