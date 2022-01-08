@@ -7,7 +7,7 @@
 Luas     = π × r²
 Keliling = 2 x π × r
 ```
-![rumus](https://user-images.githubusercontent.com/92736847/139631013-f1b39b09-7b95-46fa-8041-94ca58ba17f8.png)
+![3](ss/3.png)
 
 - Nilai phi yang di gunakan adalah 3.14
 - r merupakan jari-jari lingkaran</p>
@@ -16,7 +16,7 @@ Keliling = 2 x π × r
 
 ### Flowchart Menghitung Luas dan Keliling Lingkaran
 
-![flowchart](https://user-images.githubusercontent.com/92736847/139665605-fc5b17f5-ce4a-4048-bba1-43f3efbc4b3f.png)
+![1](ss/1.png)
 
 ### Program Menghitung Luas dan keliling Lingkaran
 
@@ -42,7 +42,7 @@ Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan k
 Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita pakai fungsi format() seperti gambar di atas</p>
 ### Ouput
  
- ![3 4](https://user-images.githubusercontent.com/92736847/139679264-1cc5abe4-a867-4f3f-b709-ea4ac118f248.png)
+ ![2](ss/2.png)
 
 
 Terima Kasih
